@@ -1,4 +1,4 @@
-# vue-youtube_thumbnail_donwload
+# vue-youtube_thumbnail_donwloader
 
 ## Project setup
 ```
